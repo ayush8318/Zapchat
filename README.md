@@ -7,10 +7,10 @@ ZapChat is a feature-rich real-time chat application built using the MERN stack.
 
 ### Authentication Workflow
 
-<img src="https://github.com/ayush8318/Zapchat/blob/032f79a1a0451670903c933d671fbc29ab1cd601/img2.png" alt="Authentication Workflow Screenshot" width="800" height="500">
+<img src="https://github.com/ayush8318/Zapchat/blob/032f79a1a0451670903c933d671fbc29ab1cd601/img2.png" alt="Authentication Workflow Screenshot" width="800" height="800">
 
 ### Live Application
-<img src="https://github.com/ayush8318/Zapchat/blob/032f79a1a0451670903c933d671fbc29ab1cd601/img.jpg" alt="Authentication Workflow Screenshot" width="800" height="500">
+<img src="https://github.com/ayush8318/Zapchat/blob/032f79a1a0451670903c933d671fbc29ab1cd601/img.jpg" alt="Authentication Workflow Screenshot" width="800" height="800">
  
 
 ---
